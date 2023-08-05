@@ -1,8 +1,6 @@
-# Golf Game
+# DriveToVictory
+"Putt your way to victory in this thrilling mini golf adventure! Swing, aim, and score your way through challenging courses in our Python Pygame-powered mini golf game. Can you master the art of precision and sink that perfect hole-in-one? Tee off now and let the fun begin!"
 
-This is a 9 hole 2D golf game created using pygame. I made this project for my grade 11 programming class final project. 
-
-You can watch this video to see how the game works: https://www.youtube.com/watch?v=RJJugb2uJPs
 
 # Requirements
 - Python 3.x
